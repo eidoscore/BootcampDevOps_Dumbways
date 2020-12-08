@@ -1,7 +1,7 @@
 # Instalasi Ubuntu Server 18.04 Menggunakan VirtualBox
 
 1. Buat VM Baru dengan Nama khaerul Anwar - DWDS02ISIS dan pilih Ubuntu-64 bit
-![1](../assets/Capture.png)
+![1](../assets/Capture.PNG)
 
 1. kemudian Pilih **Create a virtual disk now**
 ![2](../assets/Capture2.png)
