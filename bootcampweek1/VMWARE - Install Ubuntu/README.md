@@ -70,4 +70,8 @@
 ![23](../assets/Capture23.PNG)
 
 1. Terakhir Tunggu Hingga proses instalasi selesai
+<<<<<<< HEAD
 ![24](../assets/Capture24.PNG)
+=======
+![24](../assets/Capture24.png)
+>>>>>>> 1524e1eb100b86662adc5a26a8e21ede916fc0ac
