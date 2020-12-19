@@ -15,10 +15,10 @@ choose 2
 cat backend.conf
 ```
 
-![22](../assets/22.PNG)
-![23](../assets/23.PNG)
+![24](../assets/22.PNG)
+![25](../assets/23.PNG)
 
 * terakhir adalah rubah base URL dari API pada server frontend menggunakan alamat api yang sudah di setting
 
-![24](../assets/24.PNG)
-![25](../assets/25.PNG)
+![26](../assets/24.PNG)
+![27](../assets/25.PNG)

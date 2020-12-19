@@ -22,7 +22,7 @@ sudo mysql -u root -p
 
 * pada dasarnya default mysql tidak memiliki password maka dari itu kita akan menambahakn password pada user root dengan perintah dibawah, setelah relog dengan password baru.
 
-![1](../assets/8.PNG)
+![10](../assets/8.PNG)
 
 * disini kita akan membuat user baru untuk mengakses server database agar bis di remote malalui backend.
 
@@ -34,10 +34,10 @@ grant all on *.* to 'namauser'@'ip-server-backend';
 FLUSH PRIVILEGES;
 ```
 
-![1](../assets/9.PNG)
-![1](../assets/10.PNG)
-![1](../assets/11.PNG)
+![11](../assets/9.PNG)
+![12](../assets/10.PNG)
+![13](../assets/11.PNG)
 
 * Kemudian Setting bind Address dari server database menggunakan ip private server.
 
-![1](../assets/12.PNG)
+![14](../assets/12.PNG)

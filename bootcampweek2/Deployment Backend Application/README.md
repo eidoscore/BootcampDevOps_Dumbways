@@ -10,7 +10,7 @@ sudo apt install mysql-client
 ![13](../assets/13.PNG)
 
 * Clone repo housy backend rename menjadi housy
-![0](../assets/4.PNG)
+![15](../assets/4.PNG)
 
 * *setelah itu install node js pada server dengan perintah berikut :
 
@@ -26,14 +26,14 @@ sudo apt install mysql-client
  npm install -g pm2
  ```
 
-![0](../assets/14.PNG)
+![16](../assets/14.PNG)
 
 * lakukan test remote ke server database yang sudah kita config
 
 ```
 sudo mysql -u username -h ip-server-database -p
 ```
-![15](../assets/14.1.PNG)
+![17](../assets/14.1.PNG)
 
 
 * kemudian setting config database pada aplikasi backend dengan database dan user yang sudah kita buat
@@ -41,7 +41,7 @@ sudo mysql -u username -h ip-server-database -p
 ```
 sudo vi config/config.json
 ```
-![15](../assets/15.png)
+![18](../assets/15.png)
 
 setelah selesai config database production pada config.json, lakukan migrasi database :
 
