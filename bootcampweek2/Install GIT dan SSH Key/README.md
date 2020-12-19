@@ -1,26 +1,30 @@
 # Setup GIT and SSH
 
-1. Pertama fork repository housy front/backend
+* Pertama fork repository housy front/backend
 
-![0](../assets/0.PNG)
+![1](../assets/img_0.PNG)
 
-2. kemudian generate ssh key, disini saya praktekan pada server , copy public key dari key yang sudah di generate
+* kemudian generate ssh key, disini saya praktekan pada server , copy public key dari key yang sudah di generate
 
-![1](../assets/1.PNG)
-![2](../assets/2.PNG)
+![2](../assets/img_1.PNG)
+![3](../assets/img_2.PNG)
 
 * tambahkan public key pad akun kita dan simpan
-![2.1](../assets/2.1.PNG)
+![4](../assets/img_3.PNG)
 
 * kemudian lakukan test koneksi ke akun github kita
 
-![3](../assets/3.PNG)
+![5](../assets/img_7.PNG)
 
 * buat repository baru untuk backend dan frontend
-![2.1](../assets/2.2.PNG)
+![6](../assets/img_4.PNG)
+
+* Clone repository backend dan rename 
+![7](../assets/img_8.PNG)
+
 
 * lakukan commit perubahan dan push ke repository yang sudah
-![2.1](../assets/2.3.PNG)
+![8](../assets/img_5.PNG)
 
 * cek repository github kita
-![2.1](../assets/2.4.PNG)
+![9](../assets/img_6.PNG)

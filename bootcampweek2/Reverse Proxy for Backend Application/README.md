@@ -1,4 +1,4 @@
-# Setup Deployment Backend Application
+# Reverse Proxy Server
 
 * buat reverse proxy untuk server backed kita pada server public nginx ``/etc/nginx/sites-available`` berinama backend.conf
 
@@ -15,15 +15,15 @@ server {
 }
 ```
 
-![19](../assets/16.PNG)
+![19](../assets/img_21.PNG)
 
 * Buat load balancing untuk server frontend agar traffic bisa dipecah.
 
 **Note** disini kita harus membuat 1 instances lagi untuk load balance frontend server
 
-![20](../assets/17.PNG)
+![20](../assets/img_22.PNG)
 
 * kemudian disini saya menggunakan postman untuk mengambil data pada server 
 
-![21](../assets/18.PNG)
+![21](../assets/img_23.PNG)
 
