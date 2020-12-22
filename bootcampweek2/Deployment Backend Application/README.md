@@ -42,6 +42,7 @@ sudo mysql -u username -h ip-server-database -p
 ```
 sudo vi config/config.json
 ```
+
 ![18](../assets/img_20.png)
 
 setelah selesai config database production pada config.json, lakukan migrasi database :
